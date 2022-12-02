@@ -1,0 +1,1 @@
+Usamos el -it en comandos de docker cuando no usamos un servicio, ejemplo: contenedor de windows o ubuntu
