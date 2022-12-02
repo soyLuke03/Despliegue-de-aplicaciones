@@ -1,3 +1,0 @@
-docker run -d -m C:\Users\antog\Desktop\ServerApacheDeDespliegue:/usr/local/apache2/htdocs/ --name serverapache -p 8080:80 httpd
-
-Comando para act. Publicacion pagina web
